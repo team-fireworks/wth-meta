@@ -75,6 +75,6 @@ grant the permissions described above.
 If you have any questions, conditions, or requests regarding this agreement,
 please contact us.
 
-Email: [wthrblx@proton.me](mailto:wthrblx@proton.me)
-Discord: <https://discord.gg/9Fuv68NcSt>
-GitHub: <https://github.com/team-fireworks/wth-meta>
+*   Email: [wthrblx@proton.me](mailto:wthrblx@proton.me)
+*   Discord: <https://discord.gg/9Fuv68NcSt>
+*   GitHub: <https://github.com/team-fireworks/wth-meta>
