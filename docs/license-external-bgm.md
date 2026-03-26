@@ -2,21 +2,16 @@
 
 ## 1. Introduction
 
-Thank you for your interest in contributing music to the free-to-play
+Thank You for Your interest in contributing music to the free-to-play
 video game Welcome To Hell on the Roblox platform (hereinafter "Game").
 
-This agreement outlines the terms between Team Fireworks Games and you
-(hereinafter "You," "Creator") under which your music may be used in our game,
-while maintaining clarity, attribution, and respect for your rights as the
-Creator.
-
-Welcome To Hell has no paywalls or pay-to-win mechanics. The Game may include
-optional cosmetic purchases or donations to support development.
-These do not affect gameplay.
+This agreement outlines the terms between Team Fireworks Games and You
+(hereinafter "You", "Your", "Creator") under which Your music may be used in
+our game, while maintaining clarity, attribution, and respect for Your rights.
 
 ## 2. Permissions
 
-By agreeing to this document, You grant permission for your music to be used
+By agreeing to this document, You grant permission for Your music to be used
 under the following conditions:
 
 *   The music may be used as background audio within the game
@@ -28,6 +23,11 @@ under the following conditions:
     content (such as but not limited to community made Towers made using the
     Game's kit, which would be submitted for inclusion into the Game)
 *   This permission is granted on a non-exclusive basis
+*   You retain full ownership of Your work
+
+Please note the Game has no paywalls or pay-to-win mechanics. The Game may
+include optional cosmetic purchases or donations to support development.
+These do not affect gameplay.
 
 ## 3. Authority
 
@@ -51,10 +51,7 @@ Attribution includes, but is not limited to:
 ## 5. Compensation
 
 At this time, we are not able to provide monetary compensation for music
-licensing, and are only seeking permission for credited use.
-
-We are primarily seeking permission for use with full credit given to the
-Creator.
+licensing, and are only seeking permission for attributed use.
 
 If You have specific conditions or requirements, feel free to let us know.
 
@@ -67,12 +64,12 @@ retroactive removal from versions already published.
 
 ## 7. Agreement
 
-By replying with confirmation (email or Discord message), you agree to
+By replying with confirmation (email or Discord message), You agree to
 grant the permissions described above.
 
 ## 8. Contact
 
-If you have any questions, conditions, or requests regarding this agreement,
+If You have any questions, conditions, or requests regarding this agreement,
 please contact us.
 
 *   Email: [wthrblx@proton.me](mailto:wthrblx@proton.me)
